@@ -1,0 +1,43 @@
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.AssemblyReference.cache
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+F:\.Net C40\Mentor\4. C# Exam\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
+G:\WorkShop C41\OOP\Exam\Answer\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+G:\WorkShop C41\OOP\Exam\Answer\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+G:\WorkShop C41\OOP\Exam\Answer\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+G:\WorkShop C41\OOP\Exam\Answer\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+G:\WorkShop C41\OOP\Exam\Answer\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+G:\WorkShop C41\OOP\Exam\Answer\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+G:\WorkShop C41\OOP\Exam\Answer\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+G:\WorkShop C41\OOP\Exam\Answer\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+G:\WorkShop C41\OOP\Exam\Answer\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+G:\WorkShop C41\OOP\Exam\Answer\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+G:\WorkShop C41\OOP\Exam\Answer\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+G:\WorkShop C41\OOP\Exam\Answer\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+G:\WorkShop C41\OOP\Exam\Answer\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+G:\WorkShop C41\OOP\Exam\Answer\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
+D:\C# Sessions\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+D:\C# Sessions\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+D:\C# Sessions\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+D:\C# Sessions\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+D:\C# Sessions\ExaminationSystem Solution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+D:\C# Sessions\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Sessions\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+D:\C# Sessions\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+D:\C# Sessions\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\C# Sessions\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+D:\C# Sessions\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+D:\C# Sessions\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+D:\C# Sessions\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+D:\C# Sessions\ExaminationSystem Solution\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
